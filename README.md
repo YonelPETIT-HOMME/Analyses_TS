@@ -1,8 +1,6 @@
 # Analyses_TS
 Analyses et commentaires sur la prévision des séries temporelles
 
-
-
 Ce travail vise un double objectif  qui consiste à :
 
  	1. Améliorer notre capacité à manipuler et à modéliser les séries temporelles;
